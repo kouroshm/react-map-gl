@@ -25,6 +25,7 @@
     "d3-selection": "^1.0.2",
     "global": "^4.3.0",
     "mapbox-gl": "0.26.0",
+    "react-addons-shallow-compare": "^15.4.2",
     "viewport-mercator-project": "3.0.0-rc2"
   },
   "devDependencies": {
@@ -40,7 +41,7 @@
     "module-alias": "^2.0.0",
     "node-jsx": "^0.13.3",
     "react": "^15.4.0",
-    "react-addons-shallow-compare": "^15.4.2",
+    "react-addons-test-utils": "^15.4.2",
     "react-dom": "^15.4.0",
     "reify": "^0.4.4",
     "sinon": "^1.17.7",
